@@ -121,7 +121,7 @@ header {
 	display: flex;
 	flex-direction: row;
 }
-.top-content .text-content {;
+.top-content .text-content {
 	width:49%;
 	padding-top:40px;
 }
